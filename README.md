@@ -1,15 +1,15 @@
 # JMeter
 
-Jmeter - HW_1
-Сделать сценарий с перечисленными эндпоинтами
+Jmeter - HW_1  
+Сделать сценарий с перечисленными эндпоинтами  
 
-http://162.55.220.72:5005
+http://162.55.220.72:5005  
 
-1. http://162.55.220.72:5005/get_method
-req.
-GET
-name: str
-age: int
+1. http://162.55.220.72:5005/get_method  
+req.  
+GET  
+name: str  
+age: int  
 
 2. http://162.55.220.72:5005/user_info_2
 req.
