@@ -10,14 +10,12 @@ GET
 name: str
 age: int
 
-
 2. http://162.55.220.72:5005/user_info_2
 req.
 POST
 name: str
 age: int
 salary: int
-
 
 3. http://162.55.220.72:5005/user_info_3
 req.
